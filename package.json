@@ -1,0 +1,23 @@
+{
+  "name": "ejercicio_1-bootcamp",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de la cursada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariogzabala/ejercicio_1_bootcamp.git"
+  },
+  "keywords": [
+    "Primer-Ejercicio"
+  ],
+  "author": "Mario Zabala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariogzabala/ejercicio_1_bootcamp/issues"
+  },
+  "homepage": "https://github.com/mariogzabala/ejercicio_1_bootcamp#readme"
+}
